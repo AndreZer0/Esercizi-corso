@@ -1,0 +1,67 @@
+head{
+ font-family: 'Crimson Text', serif;
+}
+header {
+    text-align: center;
+}
+    h1 {
+        color: rgb(37, 33, 33);
+    }
+    img{
+        width: 12em;
+    }
+.a {
+    border-top: 1px solid orange;
+     background-color: rgb(250, 246, 239);
+    color: rgb(3, 95, 41);
+    font-size: 0.8em;
+    height: 2em;
+    padding-top: 1em;
+}
+figcaption{
+    color: rgba(109, 105, 105, 0.592);
+    text-align: center;
+}
+span {
+    font-weight: bold;
+}
+
+    .b{
+        width: 105%;
+        margin-left: 0em;
+}
+
+.foto {
+    display: block;
+    margin-left: auto;     
+    margin-right: auto;
+    width: 60em;
+}
+
+.cranberry h3 {
+    margin-bottom: 0;
+    font-size: 1em;
+    color: #cc2900;
+    font-weight: 200;
+    border-left: 1px solid orange;
+    padding-left: 0.5em;
+}
+    .cranberry a {
+    border-left: 1px solid orange;
+    padding-left: 0.5em;
+}
+main {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgb(175, 197, 234);
+}
+
