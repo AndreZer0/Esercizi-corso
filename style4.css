@@ -1,0 +1,127 @@
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    background-color: rgba(201, 222, 219, 0.484);
+
+}
+.logo{
+    display: block;
+    background-color: #222f3e;
+    height: 4em;
+}
+.logo1 {
+    height: 2.5em;
+    padding-left: 2%;
+    padding-top: 0.5%;
+}
+.nav{
+    background-color: #364759;
+    height: 34px;
+    padding-top: 0.5em;
+}
+.ancora{
+    color: whitesmoke;
+    padding-left: 1.5em;
+    text-decoration: none; 
+}
+main {
+    text-align: center;
+}
+.shop{
+    background-color: rgb(251, 98, 3);
+    color: white;
+    height: 25px;
+    margin: 2em;
+    padding-top: 0.5em;
+}
+.titoli {
+    background-image: url(https://i.postimg.cc/9FNy8wxP/bg-image.png);
+    height: 9.2em;
+    margin: 2em;
+    color: white;
+    padding-top:2.6em;
+}
+.titolini {
+    text-align: left;
+    padding-left: 1em;
+    font-size: larger;
+    padding-top: 0.8em;
+}
+.titolino2 {
+    color: rgb(6, 126, 139);
+    font-size: medium;
+    font-weight: bold;
+    padding-left: 1em;
+}
+ .immagini img{
+    width: 300px;
+    height: 370px;
+    object-fit: cover;
+    margin: 1rem;
+    border-radius: 15px;
+    -webkit-box-shadow: 5px 5px 10px 0px #d2cfcd;
+    -moz-box-shadow: 5px 5px 10px 0px #d2cfcd;
+    -o-box-shadow: 5px 5px 10px 0px #d2cfcd;
+    box-shadow: 5px 5px 10px 0px #d2cfcd;
+ }
+.immagini {
+    background-color: white;
+    width: 96%;
+    margin: auto;
+}
+.giochi img{
+    margin:auto;
+    display: block;
+    margin-top: 1em;
+    width: 96%;
+}
+.accessori img{
+    margin:auto;
+    display: block;
+    width: 96%
+
+}
+.giochi {
+    font-size: large;
+    
+}
+.giochi a{
+    color:rgb(6, 126, 139);
+    font-weight: bold;
+    padding-left: 2em;
+}
+.accessori span{
+    padding: 1em;
+    font-size: large;
+}
+.acc2 {
+    color:rgb(6, 126, 139);
+    font-weight: bold;
+}
+
+#fine {
+    text-align: center;
+    height: 30px;
+    background-color: #364759;
+    padding-top: 1em;
+}
+#fine a{
+    color: white;
+}
+#logo2 { 
+    background-color: #222f3e;
+    height:9em;
+    padding-top: 4.5em;
+}
+footer img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 3.5em;
+}
+footer {
+    margin-top: 2em;
+}
+  
